@@ -1,10 +1,11 @@
 # Prerequisites
-#
-- JDK 17 or 21
-- Maven 3.9
+# my changes number 2
+- JDK 1234 
+- Maven 3.9 
 - MySQL 8
 
 # Technologies 
+- JAKARTA
 - Spring MVC
 - Spring Security
 - Spring Data JPA
